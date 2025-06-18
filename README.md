@@ -1,6 +1,6 @@
 # Dolly the Sheep - Digital Twin
 
-This project is an interactive digital twin of Dolly the Sheep, built as a take-home assignment. The system ingests a variety of documents—including memoirs, interviews, scientific papers, and personal journals—to create a comprehensive, multi-modal knowledge base. An interactive chat application then allows users to ask Dolly questions about her life, experiences, and feelings, with the system responding in her unique persona.
+The system ingests a variety of documents—including memoirs, interviews, scientific papers, and personal journals—to create a comprehensive, multi-modal knowledge base. An interactive chat application then allows users to ask Dolly questions about her life, experiences, and feelings, with the system responding in her unique persona.
 
 The core of this project is a sophisticated agentic architecture designed to provide accurate, in-character responses while minimizing AI hallucination. It demonstrates an advanced approach to Retrieval-Augmented Generation (RAG) by separating factual knowledge from narrative context.
 
