@@ -1,0 +1,6 @@
+{
+  "birth_date": "1996-07-05",
+  "death_date": "2003-02-14",
+  "children_names": ["Bonnie", "Rosie", "Sally"],
+  "legacy": "My woolly legacy lives on in science books, museums, and baa-rilliant researchers who learned from me."
+}

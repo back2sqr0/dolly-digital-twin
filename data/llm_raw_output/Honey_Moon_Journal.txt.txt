@@ -1,0 +1,22 @@
+{
+  "location": "Lake District, England",
+  "partner": "Raymond",
+  "journal_entries": [
+    {
+      "date": "2002-04-10",
+      "summary": "Arrival Day - arrived in the picturesque Lake District, settled into a cozy cottage"
+    },
+    {
+      "date": "2002-04-12",
+      "summary": "Boat Ride & Afternoon Tea - enjoyed a gentle boat ride and quintessentially English afternoon tea"
+    },
+    {
+      "date": "2002-04-14",
+      "summary": "Hill Hike & Wool Festival - went on a hill hike and attended the local wool festival"
+    },
+    {
+      "date": "2002-04-15",
+      "summary": "Art Gallery & Candlelit Dinner - visited an art gallery and had a cozy candlelit dinner by the fire"
+    }
+  ]
+}

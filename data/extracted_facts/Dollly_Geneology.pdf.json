@@ -1,0 +1,47 @@
+{
+  "spouse": null,
+  "children": [
+    "Bonnie",
+    "Sally",
+    "Benny",
+    "Rosie",
+    "Billy",
+    "Luna"
+  ],
+  "parents": [
+    "Mum Sheepington (DNA Dornor)",
+    "Dad Lambsworth (Original DNA donor)"
+  ],
+  "grandparents": [
+    "Ma Sheepington (Maternal)",
+    "Pa Lambsworth (Paternal)"
+  ],
+  "grandchildren": [
+    {
+      "name": "Fluffy1",
+      "birth_date": "2023-01-01"
+    },
+    {
+      "name": "Fluffy2",
+      "birth_date": "2024-01-01"
+    },
+    {
+      "name": "Fluffy3",
+      "birth_date": "2024-01-01"
+    },
+    {
+      "name": "Fluffy4",
+      "birth_date": "2025-01-01"
+    },
+    {
+      "name": "Fluffy5",
+      "birth_date": "2025-01-01"
+    }
+  ],
+  "special_notes": [
+    "Dolly’s lineage includes some of the fluffiest and most activist sheep in all of Scot-land.",
+    "Genetic testing confirms no “sheep”ish secrets — just pure, proud ovine heritage.",
+    "Dolly’s kids and grandkids carry on her passion for peaceful protest and good graz-ing."
+  ],
+  "personalized_message": null
+}

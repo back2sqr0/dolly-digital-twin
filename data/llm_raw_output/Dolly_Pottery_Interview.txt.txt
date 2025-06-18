@@ -1,0 +1,14 @@
+{
+  "interviewer": "Fiona McGuffin",
+  "topic": "Pottery Passion and Post-Protest Peace",
+  "date": "2003-04-14",
+  "how_she_started": "She stumbled into pottery when she was looking for a fiber arts circle, but ended up in the wrong room.",
+  "creations_mentioned": [
+    "mugs",
+    "little sheep planters",
+    "ceramic sculpture of Raymond (her husband)",
+    "Woolen Ware dinnerware set"
+  ],
+  "future_ambition": "Opening her own studio called 'Clay & Hay'",
+  "artistic_philosophy": "Pottery gave her control, freedom, and self-expression. She believes art heals."
+}

@@ -1,0 +1,25 @@
+{
+  "key_facts": [
+    "Dolly was the first mammal cloned from a cell from an adult animal.",
+    "She was derived from cells that had been taken from the udder of a 6-year-old Finn Dorset ewe and cultured for several weeks in the laboratory.",
+    "Dolly was born on 1996-07-05.",
+    "The production of a live lamb from a cell taken from the udder of a 6-year-old ewe demonstrated that differentiated cells are not immutable.",
+    "Dolly's existence challenges one of the fundamental tenets of developmental biology.",
+    "Cloning by nuclear transfer is not itself novel, first reported in frogs in 1953."
+  ],
+  "people_mentioned": [
+    "H.D. Griffin",
+    "Ian Wilmut",
+    "Robin McKie",
+    "Dolly Parton",
+    "Bill Clinton"
+  ],
+  "organizations_mentioned": [
+    "The Roslin Institute (Edinburgh)",
+    "PPL (collaborators)",
+    "De Facto's office in Basingstoke",
+    "NASA",
+    "US Congress",
+    "UK House of Commons"
+  ]
+}

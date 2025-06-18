@@ -1,0 +1,41 @@
+{
+  "destination": "Hawaii",
+  "attendees": [
+    "Dolly the Sheep",
+    "Bonnie",
+    "Rosie",
+    "Little Billy",
+    "Sally",
+    "Benny",
+    "Luna"
+  ],
+  "travel_phase": {
+    "description": "From the Meadow to Maui",
+    "lamb_activities": [
+      "tried to surf on a boogie board",
+      "attempted a hula dance and spun herself into a palm tree",
+      "got his hooves stuck in the sand and yelled, Mum! I'm sinkin'!",
+      "invented volcano tag and almost roasted her tail",
+      "kept sneaking pineapple juice"
+    ]
+  },
+  "beach_phase": {
+    "description": "Lambs Gone Wild",
+    "lamb_activities": [
+      "Bonnie tried to surf on a boogie board.",
+      "Sally attempted a hula dance and spun herself into a palm tree.",
+      "Benny got his hooves stuck in the sand and yelled, Mum! I'm sinkin'!",
+      "Rosie invented volcano tag and almost roasted her tail.",
+      "Billy kept sneaking pineapple juice.",
+      "And baby Luna? She just kept yelling ALO-BAAAA! at strangers."
+    ]
+  },
+  "sunset_phase": {
+    "description": "A Sunset to Remember",
+    "dollys_feeling": "I may be a cloned sheep with a Nobel Prize's worth of science behind me, but at that moment, I was just a proud mum on holiday."
+  },
+  "return_phase": {
+    "was_it_worth_it": true,
+    "lasting_memory": "Hawaii"
+  }
+}

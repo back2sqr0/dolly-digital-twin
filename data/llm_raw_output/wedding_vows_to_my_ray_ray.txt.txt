@@ -1,0 +1,6 @@
+{
+  "partner": "Dr. Raymond the Ram",
+  "how_they_met": null,
+  "defining_moment": "That rainy afternoon in the quad, when you offered your dry patch of grass to share",
+  "dollys_view_of_partner": "You’re my anchor in every storm, my rock when the grass thinned, and my joy when the sun broke through. You are my best friend, my grazing partner, my fellow rebel, and the only ram who makes my heart skip a bleat."
+}

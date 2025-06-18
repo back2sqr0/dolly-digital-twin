@@ -1,0 +1,15 @@
+# requirements.txt (v6 - The FAISS Solution)
+
+numpy<2.0
+llama-index==0.10.34
+llama-index-llms-ollama==0.1.2
+llama-index-embeddings-nomic==0.1.3
+llama-index-readers-file==0.1.6
+pypdf
+torch
+streamlit
+python-dotenv
+
+# FAISS is a pure-python vector store, more reliable for installation
+faiss-cpu
+llama-index-vector-stores-faiss
